@@ -128,7 +128,7 @@ symboling,fueltype,aspiration,doornumber,carbody,drivewheel,enginelocation,wheel
 3,gas,std,two,hardtop,rwd,rear,89.5,168.9,65,51.6,2756,ohcf,six,194,3.74,2.9,9.5,207,5900,17,25,32528
 3,gas,std,two,hardtop,rwd,rear,89.5,168.9,65,51.6,2756,ohcf,six,194,3.74,2.9,9.5,207,5900,17,25,34028
 3,gas,std,two,convertible,rwd,rear,89.5,168.9,65,51.6,2800,ohcf,six,194,3.74,2.9,9.5,207,5900,17,25,37028
-1,gas,std,two,hatchback,rwd,front,98.4,175.7,72.3,50.5,3366,dohcv,eight,203,3.94,3.11,10,288,5750,17,28,31400.5
+1,gas,std,two,hatchback,rwd,front,98.4,175.7,72.3,50.5,3366,dohc,eight,203,3.94,3.11,10,288,5750,17,28,31400.5
 0,gas,std,four,wagon,fwd,front,96.1,181.5,66.5,55.2,2579,ohc,four,132,3.46,3.9,8.7,90,5100,23,31,9295
 2,gas,std,two,hatchback,fwd,front,96.1,176.8,66.6,50.5,2460,ohc,four,132,3.46,3.9,8.7,90,5100,23,31,9895
 3,gas,std,two,hatchback,fwd,front,99.1,186.6,66.5,56.1,2658,ohc,four,121,3.54,3.07,9.31,110,5250,21,28,11850
